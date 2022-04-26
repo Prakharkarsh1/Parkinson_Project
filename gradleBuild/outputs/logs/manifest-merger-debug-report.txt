@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:3:5-34
+	xmlns:android
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\DELL\.android\build-cache\5a0abcaecc25849e7ddb62b6bf42b7c59dc8e8d6\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\DELL\.android\build-cache\3cdd4e2af12190befd1ed06e65073404a55eb0de\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\DELL\.android\build-cache\ec7d6bfee05811a7cd266216144f611fbf7178c1\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\DELL\.android\build-cache\c9ae9a0add26768220010a1342b42051d61edcce\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\DELL\.android\build-cache\917cf3492d7c24bb4f3ead9df155c7001d7a4051\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\DELL\.android\build-cache\83ea37b4f5138013f36d12c42a092790e32e405d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\DELL\.android\build-cache\6cf65d1041f26352826420eacab8baa939589ded\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\DELL\.android\build-cache\635620881e4415be0b74105839e45b2a2f6db96f\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\DELL\.android\build-cache\d59dc7695c96676528dc5f6706728a4ae2fa3903\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\DELL\.android\build-cache\5a0abcaecc25849e7ddb62b6bf42b7c59dc8e8d6\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:7:9-38
+	android:minSdkVersion
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:6:9-35
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:10:22-68
+application
+ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:12:5-33:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\DELL\.android\build-cache\5a0abcaecc25849e7ddb62b6bf42b7c59dc8e8d6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\DELL\.android\build-cache\3cdd4e2af12190befd1ed06e65073404a55eb0de\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\DELL\.android\build-cache\ec7d6bfee05811a7cd266216144f611fbf7178c1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\DELL\.android\build-cache\c9ae9a0add26768220010a1342b42051d61edcce\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\DELL\.android\build-cache\917cf3492d7c24bb4f3ead9df155c7001d7a4051\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\DELL\.android\build-cache\83ea37b4f5138013f36d12c42a092790e32e405d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\DELL\.android\build-cache\6cf65d1041f26352826420eacab8baa939589ded\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\DELL\.android\build-cache\635620881e4415be0b74105839e45b2a2f6db96f\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\DELL\.android\build-cache\d59dc7695c96676528dc5f6706728a4ae2fa3903\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:15:9-41
+	android:debuggable
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:14:9-34
+	android:allowBackup
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:16:9-45
+activity#org.tensorflow.demo.ResultActivity
+ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:18:13-43
+activity#org.tensorflow.demo.SplashActivity
+ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:20:9-28:20
+	android:exported
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:21:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:26:27-74
+activity#org.tensorflow.demo.SpeechActivity
+ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:29:9-32:61
+	android:screenOrientation
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:31:13-57
+	android:name
+		ADDED from C:\Users\DELL\Desktop\SpeechJava\speech\speechandroid\AndroidManifest.xml:30:13-43
